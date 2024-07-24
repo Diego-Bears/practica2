@@ -40,19 +40,19 @@
     "url": "https://eliteos.net/",
     "icon": "https://icons.duckduckgo.com/ip3/eliteos.net.ico",
     "slug": "programas-free",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 538,
-    "timeDay": 717,
-    "timeWeek": 533,
-    "timeMonth": 538,
-    "timeYear": 538,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.39%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 532,
+    "timeDay": 614,
+    "timeWeek": 519,
+    "timeMonth": 532,
+    "timeYear": 532,
     "dailyMinutesDown": {
-      "2024-07-24": 0
+      "2024-07-24": 9
     }
   },
   {
