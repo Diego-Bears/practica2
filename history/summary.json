@@ -40,7 +40,7 @@
     "url": "https://eliteos.net/",
     "icon": "https://icons.duckduckgo.com/ip3/eliteos.net.ico",
     "slug": "programas-free",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -48,10 +48,12 @@
     "uptimeYear": "100.00%",
     "time": 508,
     "timeDay": 482,
-    "timeWeek": 497,
+    "timeWeek": 423,
     "timeMonth": 508,
     "timeYear": 508,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-31": 0
+    }
   },
   {
     "name": "Test Broken Site",
